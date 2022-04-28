@@ -1,0 +1,23 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "start": "index spiderverse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbeAlvarez/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbeAlvarez/spiderverse/issues"
+  },
+  "homepage": "https://github.com/AbeAlvarez/spiderverse#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
